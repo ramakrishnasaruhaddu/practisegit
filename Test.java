@@ -1,11 +1,14 @@
 public class Test {
 	public string doString() {
 		
-		int a=10;
-		int b=30;
-		int c=a+b;
-		return c;
+		int k=10;
+		int l=30;
+		int m=k+l;
+		return m;
+		
+		
 		
 	}
+	
 	
 }
