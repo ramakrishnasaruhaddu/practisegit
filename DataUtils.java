@@ -3,9 +3,9 @@ public static void main(String args[]){
 
    public void doSample(){
    
-      int i=10;
-	  int j=20;
-	  int c= i+j;
+      int a=10;
+	  int b=20;
+	  int c= a+b;
 	  console.log(c);
    
 }
