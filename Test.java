@@ -9,6 +9,14 @@ public class Test {
 		
 		
 	}
+
+       public int doString() {
+
+           String a = "RamaKrishna"
+           String b =  "Venkat"
+
+
+       }
 	
 	
 }
