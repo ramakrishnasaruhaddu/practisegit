@@ -7,6 +7,12 @@ public static void main(String args[]) {
   console.log("Hello How Are u");
 }
 
+  public String sampleApply() {
+
+  console.log(c);
+
+}
+
 }
 
 }
