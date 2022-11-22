@@ -5,5 +5,8 @@ Class Duplicate {
 		
 	}
 	
-	
+	public String doString() {
+		
+		
+	}
 }
